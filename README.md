@@ -40,12 +40,16 @@
 
 
 
-📒 log 
+# 📒 log 
+
+
 <a href="https://velog.io/@bi-sz">
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
-📫 Contact 
+# 📫 Contact 
+
+
 <a href="mailto:wjdtjr9931@gmail.com">
 <img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"> 
 </a>
