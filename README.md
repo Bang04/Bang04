@@ -42,7 +42,7 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
 ### 📒 blog
 
 <a href="https://velog.io/@bi-sz">
-<img src="https://img.shields.io/badge/Velog-03c75a?style=flat-square&logo=velog&logoColor=white"> 
+<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
 ---
