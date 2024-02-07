@@ -1,11 +1,14 @@
 
-## Hi🤚 
+## 간단한 소개 🤚 
 
 
-프론트엔드 개발자 전향을 위해 공부중인 은경입니다 😊
+안녕하세요 은경입니다😊.
+PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,
+현재는 React 관심이 생겨 열심히 공부중입니다. 
 
 
-# 💻 기술 스택 <br />
+
+## 🛠️ 기술 스택 <br />
 
 
 👉 언어
@@ -40,14 +43,15 @@
 
 
 
-# 📒 log 
+## 📒 blog
+
 
 
 <a href="https://velog.io/@bi-sz">
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
-# 📫 Contact 
+## 📫 Meail 
 
 
 <a href="mailto:wjdtjr9931@gmail.com">
