@@ -1,16 +1,12 @@
 
 ## 간단한 소개 🤚 
-
-
 안녕하세요 은경입니다😊.<br />
 PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,<br />
 현재는 React 관심이 생겨 열심히 공부중입니다. 
 
+---
 
-
-## 🛠️ 기술 스택 <br />
-
-
+## 🛠️ stack <br />
 👉 언어
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
@@ -41,19 +37,14 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,<br />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
-
+---
 
 ## 📒 blog
-
-
-
 <a href="https://velog.io/@bi-sz">
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
-## 📫 Maile
-
-
+## 📫 meail
 <a href="mailto:wjdtjr9931@gmail.com">
 <img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"> 
 </a>
