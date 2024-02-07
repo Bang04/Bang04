@@ -5,6 +5,9 @@ My name is EunKyeong
 
 주어진 업무에 필요한 것은 무엇이든 배워서 익혀 개발하였고 <br />
 현재는 React 공부중입니다.
+
+
+💻 stack <br />
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -29,12 +32,12 @@ My name is EunKyeong
 </div>
 
 
-💻 log
+📒 log <br />
 <a href="https://velog.io/@bi-sz">
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
-📞 Contact 
+📫 Contact <br />
 <a href="mailto:wjdtjr9931@gmail.com">
 <img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"> 
 </a>
