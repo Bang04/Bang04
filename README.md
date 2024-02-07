@@ -7,6 +7,11 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
 <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"> 
 </a>) 남기고 있습니다. </p>
 
+📫 mail
+<a href="mailto:wjdtjr92@naver.com">
+<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
+</a>
+
 ---
 
 ### 🛠️ stack 
@@ -39,17 +44,6 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
 
----
-
-### 📒 blog
 
 
-
----
-
-### 📫 mail
-
-<a href="mailto:wjdtjr92@naver.com">
-<img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
-</a>
 
