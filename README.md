@@ -51,7 +51,7 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,<br />
 <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=velog&logoColor=white"> 
 </a>
 
-## 📫 Meail 
+## 📫 Maile
 
 
 <a href="mailto:wjdtjr9931@gmail.com">
