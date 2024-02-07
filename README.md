@@ -1,12 +1,12 @@
 
 ### 간단한 소개 🤚 
 
-> 안녕하세요 은경입니다 😊.<br />
+> <p>안녕하세요 은경입니다 😊.<br />
 PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 있고,<br />
-현재는 React 개발자로 전향하기 위해 노력중이며 틈틈히 기록을 남기고 있습니다.
->  <a href="https://velog.io/@bi-sz">
+현재는 React 개발자로 전향하기 위해 노력중이며 틈틈히 기록을 (<a href="https://velog.io/@bi-sz">
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
-</a>
+</a>) 남기고 있습니다. </p>
+
 ---
 
 ### 🛠️ stack 
