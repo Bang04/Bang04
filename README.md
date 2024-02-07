@@ -45,9 +45,9 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
 
 ---
 
-### 📫 meail
+### 📫 mail
 
-<a href="mailto:wjdtjr9931@gmail.com">
-<img src="https://img.shields.io/badge/Naver-EA4335?style=flat-square&logo=Naver&logoColor=white"> 
+<a href="mailto:wjdtjr92@naver.com">
+<img src="https://img.shields.io/badge/naver-EA4335?style=flat-square&logo=naver&logoColor=white"> 
 </a>
 
