@@ -1,44 +1,57 @@
-### Hi 👋
+
+<div align="left">
+
+-------
 
 
-- 🌱 현재 [React] 공부중
+<br>
 
-🛠 Tech Stack
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
-[React](https://img.shields.io/badge/react-ffffff?style=for-the-badge&logo=react)
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
- <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />&nbsp
-
-
-
-         <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-
-
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@bi-sz">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
    
 
+</div><br>
 
-📫 연락방법  
- <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-     <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Naver</title><path d="M16.273 12.845 7.376 0H0v24h7.726V11.156L16.624 24H24V0h-7.727v12.845Z"/></svg>
-  </a>
-
-
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
   
-📖 기술블로그 
-
-
-
-
+</div><br>
+    
+## 🔨 Once I've used 🔨
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+    <!-- Backend -->
+    <p><strong>Backend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+    </div>
+    <!-- Database -->
+    <p><strong>Database</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+    </div>
+   
+    <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+    </div>
+    <!-- Others -->
+    <p><strong>Others</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
+        <img src="https://img.shields.io/badge/Andoid Studio-3DDC84?style=flat-square&logo=android studio&logoColor=white">
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+</div><br>
+</div>
