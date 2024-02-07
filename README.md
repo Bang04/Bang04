@@ -33,6 +33,7 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbeaver-382923?style=flat-square&logo=dbeaver&logoColor=white"/>
 </div>
 
 ---
@@ -48,6 +49,6 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 
 ### 📫 mail
 
 <a href="mailto:wjdtjr92@naver.com">
-<img src="https://img.shields.io/badge/naver-EA4335?style=flat-square&logo=naver&logoColor=white"> 
+<img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> 
 </a>
 
