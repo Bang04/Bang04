@@ -1,8 +1,8 @@
 
 ### 간단한 소개 🤚 
 
-> 안녕하세요 은경입니다😊.<br />
-PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,<br />
+> 안녕하세요 은경입니다 😊.<br />
+PHP를 주로 개발하며 Android, Spring 등 다양한 프로젝트 경험이 있고,<br />
 현재는 React 관심이 생겨 열심히 공부중입니다. 
 
 ---
@@ -27,6 +27,7 @@ PHP를 주로 개발하며 Android, Spring 등 다양한 경험이 있고,<br />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   
 </div>
+
 ####   데이터베이스
 <div>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
