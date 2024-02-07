@@ -1,6 +1,4 @@
 
-<div align="left">
-
 
   
     ###  👨‍💻 Programming and Markup Languages
