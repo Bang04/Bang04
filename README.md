@@ -2,8 +2,8 @@
 ### 간단한 소개 🤚 
 
 <p>안녕하세요 은경입니다 😊.<br />
-PHP를 주로 개발했고 이 외 Android 하이브리드앱 프로젝트 경험이 있고,<br />
-최근에는 React에 흥미가 생겨서 개인 프로젝트 개발 중 +  틈틈히 기록 (<a href="https://velog.io/@bang04/posts">
+6년간의 웹 개발 경험을 기반으로, React 중심의 프론트엔드 개발자로 경력을 확장하고자 합니다
+틈틈히 기록 (<a href="https://velog.io/@bang04/posts">
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>) 남기고 있습니다. </p>
 
