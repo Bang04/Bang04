@@ -2,14 +2,12 @@
 ### 간단한 소개 🤚 
 
 <p>안녕하세요 은경입니다 😊.<br />
-6년간의 웹 개발 경험을 기반으로, React 중심의 프론트엔드 개발자로 경력을 확장하고자 합니다
-틈틈히 기록 (<a href="https://velog.io/@bang04/posts">
+6년간의 웹 개발 경험을 기반으로, React 중심의 프론트엔드 개발자로 경력을 확장하고자 합니다.<br/>
+기술블로그 : (<a href="https://velog.io/@bang04/posts"> 
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>) 남기고 있습니다. </p>
+</a>)
 
-
-#### 📫    <a href="mailto:wjdtjr92@naver.com">
-<img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> 
+#### 📫 <a href="mailto:wjdtjr92@naver.com"> <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> 
 </a>
 
 ---
