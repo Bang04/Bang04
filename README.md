@@ -6,22 +6,24 @@
 
 
 6년간 PHP 웹 개발 경험을 바탕으로, 개인 프로젝트를 통해   
-
-
 UI/UX 구현, 컴포넌트 구조 설계, 상태 관리, 배포 및 유지보수 경험을 쌓으며   
-
-
 React 중심 프론트엔드 역량을 확장하고 있습니다.  
 
 
 
 
- 
-기술블로그 : (<a href="https://velog.io/@bang04/posts"> 
- <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
-</a>)
+    
+
+
+
+
+
+   
 
 #### 📫 <a href="mailto:wjdtjr92@naver.com"> <img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white"> 
+</a>
+
+### ✍️ <a href="https://velog.io/@bang04/posts"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>
 
 ---
