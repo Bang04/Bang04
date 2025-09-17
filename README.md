@@ -1,8 +1,10 @@
 
 ### 간단한 소개 🤚 
 
-<p>안녕하세요 은경입니다 😊.<br />
-6년간의 웹 개발 경험을 기반으로, React 중심의 프론트엔드 개발자로 경력을 확장하고자 합니다.<br/>
+<p>안녕하세요 은경입니다 😊. 6년간의 웹 개발 경험을 기반으로, <br />
+개인 프로젝트를 UI/UX 구현,컴포넌트 구조 설계,상태 관리, 배포 및 유지보수 경험을 쌓으며<br />
+React 중심의 프론트엔드 역량을 키우고 있습니다<br/>
+ 
 기술블로그 : (<a href="https://velog.io/@bang04/posts"> 
  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 </a>)
